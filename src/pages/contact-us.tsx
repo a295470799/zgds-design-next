@@ -16,7 +16,7 @@ export default function ContactUs() {
         }}
       >
         <Typography variant="h4" component="h1" gutterBottom>
-          Material UI - Next.js example in TypeScript
+          Material UI - Next.jss example in TypeScript
         </Typography>
         <Link href="/about" color="secondary">
           Go to the about page
